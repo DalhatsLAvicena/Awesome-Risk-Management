@@ -1,6 +1,6 @@
 # Awesome-Risk-Management
 
-My personal collection of risk management resources (websites, books, journals, blogs, and software) in Github Awesome list style.
+My personal collection of risk management resources (websites, books, articles, and software) in Github Awesome list style.
 Inspired by [Awesome  Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification)
 
 ## The Definition of Risk
@@ -14,12 +14,16 @@ Risk according to ISO31000 is defined as, **"Effects of uncertainty on objective
 **Related concepts**
 - Probability : A quantitative measure of likelihood of an event that is often used to measure risk.
 - Threats : An event where a party inflicts harm on purpose.
-- Hazard : An inherent danger of an object. 
+- Hazard : An inherent danger of an object.
 
-## Tools
-Various tools to help risk management process. 
+References : 
+- [Four Components of Risk](https://advancedsecurity.com/risk-management-framework-rmf/what-are-the-4-components-of-risk/)
+
+## Guides
+Various tools to help your risk management process. 
 - [Risk Matrix](https://safetyculture.com/topics/risk-assessment/5x5-risk-matrix)
 - [Risk Register](https://pmstudycircle.com/risk-register-examples/)
+- [Fire Risk Assessment](https://www.gov.uk/government/publications/fire-safety-risk-assessment-5-step-checklist/fire-safety-risk-assessment-5-step-checklist-accessible)
 
 ## Portals 
 - [Open Risk Manual](https://www.openriskmanual.org/wiki/Main_Page)
@@ -44,4 +48,5 @@ Software that helps you to quantify risk.
 - [Gretl](https://gretl.en.softonic.com/) Software for regression and time series analysis by GNU Project
 
 ## Articles
-Interesting articles on risk management which I read.
+Interesting articles on risk management that I came accross. The articles I have read are marked as such with summary/takeaway.
+- [What are Risk Sciences?](https://www.sciencedirect.com/science/article/pii/S2950629825000190)
