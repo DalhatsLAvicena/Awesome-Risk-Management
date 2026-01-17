@@ -4,7 +4,7 @@ My personal collection of risk management resources (websites, books, journals, 
 Inspired by [Awesome  Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification)
 
 ## The Definition of Risk
-Risk according to ISO31000 is defined as, **"Effects of uncerntainty on objectives"**. In other words, risk is an event that might happen which affects our objectives. Risk does not exist in vacuum; **it is related to the objectives we are trying to achive**. Every fields has their own defintion of risk. Likewise, experts have their own definition of risk as well. 
+Risk according to ISO31000 is defined as, **"Effects of uncertainty on objectives"**. In other words, risk is an event that might happen which affects our objectives. Risk does not exist in vacuum; **it is related to the objectives we are trying to achive**. Every fields has their own defintion of risk. Likewise, experts have their own definition of risk as well. 
 
 **Definitions of risk in other fields**
 - Risk in Finance : "Volatility of return."
@@ -42,3 +42,6 @@ Software that helps you to quantify risk.
 - [GNU Octave](https://octave.org/) MATLAB compatible math software by GNU Foundation
   - [Online IDE](https://octave-online.net/)
 - [Gretl](https://gretl.en.softonic.com/) Software for regression and time series analysis by GNU Project
+
+## Articles
+Interesting articles on risk management which I read.
